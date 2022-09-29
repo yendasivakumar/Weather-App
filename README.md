@@ -4,7 +4,7 @@ It's a Weather app shows weather forecast details for next seven days using weat
 ## Techstack 
 <p> HTML 5</p>
 <p> CSS 3</p>
-<p> Javascript</p>
+<p> Used open weather API to fetch live weather for given location
 
 
 ## Features
